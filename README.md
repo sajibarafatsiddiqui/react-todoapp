@@ -10,7 +10,7 @@
   <img src="calculator.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Math Magicians</b></h3>
+  <h3><b>Todo App</b></h3>
 
 </div>
 
@@ -41,15 +41,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [MATH-MAGICIANS] <a name="about-project"></a>
+# 📖 [Todo_App] <a name="about-project"></a>
 
-**[MATH-MAGICIANS]** is a basic project shows how to implement reactjs.
+**[Todo_App]** is a basic project shows how to implement reactjs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -91,11 +89,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://sajibarafatsiddiqui.github.io/math_magicians)
+- [Live Demo]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -116,8 +112,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-   git@github.com:sajibarafatsiddiqui/math_magicians.git
-   cd math_magicians 
+   git@github.com:sajibarafatsiddiqui/react-todoapp.git
+   cd react_todoapp 
 
 ```
 
@@ -140,7 +136,7 @@ To run the project, execute the following command:
 
 ```
    sh
-   cd math-magicians
+   cd react-todoapp
    npm start
 ```
 
