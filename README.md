@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="calculator.png" alt="logo" width="140"  height="auto" />
+  <img src="reacttodo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Todo App</b></h3>
@@ -80,14 +80,14 @@
 > Describe between 1-3 key features of the application.
 
 - **[key_feature_1]** Configured linters for react app
-- **[key_feature_2]** Basic Setup of React
+- **[key_feature_2]** Basic CRUD application using React
 - **[key_feature_3]** Professional readme file 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo">Not Deployed Yet</a>
 
 - [Live Demo]()
 
